@@ -52,8 +52,8 @@ This project presents a novel machine learning architecture for Fault Detection 
 
 If you use this repository in your research or work, please cite the original paper:
 
-**APA Format:**
-Barrera, J. M., Reina, A., Mate, A., & Trujillo, J. C. (2022). *Fault detection and diagnosis for industrial processes based on clustering and autoencoders: A case of gas turbines*. International Journal of Machine Learning and Cybernetics, 13, 3113–3129. https://doi.org/10.1007/s13042-022-01583-x
+**ISO 690 Format:**
+BARRERA, Jose M., et al. Fault detection and diagnosis for industrial processes based on clustering and autoencoders: a case of gas turbines. International Journal of Machine Learning and Cybernetics, 2022, vol. 13, no 10, p. 3113-3129.
 
 **BibTeX:**
 ```bibtex
